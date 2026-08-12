@@ -3,22 +3,21 @@
 Updated: 2026-08-12
 
 ## Ready now
-- [x] Repo scaffold
-- [x] Privacy policy draft (`legal/privacy-policy.html`)
-- [x] Gacha odds draft (`legal/gacha-odds.html`) — EXAMPLE rates
-- [x] Native billing drop-ins (`src/native/*`, `src/game/purchaseNative.ts`)
-- [x] Play / App Store docs + snippets
+- [x] Repo: https://github.com/cl82salazar-wq/starlight-bonds-store-launch
+- [x] Privacy + odds drafts
+- [x] Billing drop-ins
+- [x] GitHub Pages hosted legal site
+
+### Live legal URLs
+- https://cl82salazar-wq.github.io/starlight-bonds-store-launch/legal/privacy-policy.html
+- https://cl82salazar-wq.github.io/starlight-bonds-store-launch/legal/gacha-odds.html
+- Index: https://cl82salazar-wq.github.io/starlight-bonds-store-launch/
 
 ## Needs Chris
-- [ ] Google Play Console ($25) + app listing
-- [ ] Apple Developer Program ($99/year) + Bundle ID `com.starlightbonds.app`
-- [ ] Host legal HTML on public HTTPS
-- [ ] Confirm support email monitored (`cl82salazar@gmail.com`)
-
-## Blocked until
-- Main Starlight Bonds Capacitor game repo exists
+- [ ] Google Play Console account + app listing
+- [ ] Apple Developer Program + Bundle ID com.starlightbonds.app
+- [ ] Confirm support email monitored (cl82salazar@gmail.com)
+- [ ] Main Starlight Bonds Capacitor game repo
 
 ## Next step
-1. Create/confirm Play Console
-2. Host legal pages
-3. Copy `src/**` into game repo when available
+Create/confirm Play Console, then paste the privacy URL into the listing.
